@@ -1,0 +1,13 @@
+begin_object
+instrument_shape: piano_sphere
+note_color: C4_red
+size_duration: 1
+position: 0, 0, 0
+end_object
+
+begin_object
+instrument_shape: violin_cube
+note_color: G4_blue
+size_duration: 2
+position: 1, 2, 3
+end_object
